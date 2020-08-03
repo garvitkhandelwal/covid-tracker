@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+}
+body {
+  background-color: #f5f6fa;
+}
+.app {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 20px;
+}
+.app-dropdown {
+  background-color: #fff;
+}
+.app-left {
+  flex: 0.9;
+}
+.app-header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+.app-stats {
+  display: flex;
+  justify-content: space-between;
+}
+.linegraph-title {
+  margin-top: 30px;
+}
+@media (max-width: 990px) {
+  .app {
+    flex-direction: column;
+  }
+}
