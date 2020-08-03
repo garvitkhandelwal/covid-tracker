@@ -1,3 +1,7 @@
+This project is hosted at https://covid-tracker-c031f.web.app/
+
+This is a covid-19 tracker which tracks daily cases, deaths and people recovered all around the world. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
